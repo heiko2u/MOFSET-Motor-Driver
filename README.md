@@ -1,4 +1,4 @@
-# Pololu Dual MC33926 Motor Driver Shield for Arduino -Motor-Driver
+# Pololu Dual MC33926 Motor Driver for Arduino 
 
 Control 6 motors with Three Dual MC33926 MotorShields for Pololu Dual MC33926 Motor Driver Shield for Arduino
 
